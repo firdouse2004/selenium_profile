@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+    <test name="ProfileTests">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="com.profile.tests.ProfileTest"/>
+        </classes>
+    </test>
+</suite>
