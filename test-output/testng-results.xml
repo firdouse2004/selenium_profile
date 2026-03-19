@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-03-18T15:23:51 IST" name="Suite" finished-at="2026-03-18T15:24:17 IST" duration-ms="25756">
+  <suite started-at="2026-03-19T10:17:02 IST" name="Suite" finished-at="2026-03-19T10:17:28 IST" duration-ms="26139">
     <groups>
     </groups>
-    <test started-at="2026-03-18T15:23:51 IST" name="ProfileTests" finished-at="2026-03-18T15:24:17 IST" duration-ms="25756">
+    <test started-at="2026-03-19T10:17:02 IST" name="ProfileTests" finished-at="2026-03-19T10:17:28 IST" duration-ms="26139">
       <class name="com.profile.tests.ProfileTest">
-        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-18T15:23:51 IST" name="setUp" finished-at="2026-03-18T15:23:56 IST" duration-ms="4327" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-19T10:17:02 IST" name="setUp" finished-at="2026-03-19T10:17:09 IST" duration-ms="7198" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,15 +18,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method is-config="true" signature="goHome()[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-18T15:23:56 IST" name="goHome" finished-at="2026-03-18T15:23:56 IST" duration-ms="126" status="PASS">
+        <test-method is-config="true" signature="goHome()[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-19T10:17:09 IST" name="goHome" finished-at="2026-03-19T10:17:09 IST" duration-ms="347" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- goHome -->
-        <test-method signature="testInvalidYears()[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-18T15:23:56 IST" name="testInvalidYears" finished-at="2026-03-18T15:23:57 IST" duration-ms="1031" status="PASS">
+        <test-method signature="testInvalidYears()[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-19T10:17:09 IST" name="testInvalidYears" finished-at="2026-03-19T10:17:10 IST" duration-ms="781" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testInvalidYears -->
-        <test-method is-config="true" signature="takeScreenshot(org.testng.ITestResult)[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-18T15:23:57 IST" name="takeScreenshot" finished-at="2026-03-18T15:23:57 IST" duration-ms="464" status="PASS">
+        <test-method is-config="true" signature="takeScreenshot(org.testng.ITestResult)[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-19T10:17:10 IST" name="takeScreenshot" finished-at="2026-03-19T10:17:10 IST" duration-ms="417" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -37,15 +37,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- takeScreenshot -->
-        <test-method is-config="true" signature="goHome()[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-18T15:23:57 IST" name="goHome" finished-at="2026-03-18T15:23:57 IST" duration-ms="139" status="PASS">
+        <test-method is-config="true" signature="goHome()[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-19T10:17:10 IST" name="goHome" finished-at="2026-03-19T10:17:11 IST" duration-ms="115" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- goHome -->
-        <test-method signature="testNonNumericWebsites()[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-18T15:23:57 IST" name="testNonNumericWebsites" finished-at="2026-03-18T15:23:58 IST" duration-ms="724" status="PASS">
+        <test-method signature="testNonNumericWebsites()[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-19T10:17:11 IST" name="testNonNumericWebsites" finished-at="2026-03-19T10:17:11 IST" duration-ms="568" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testNonNumericWebsites -->
-        <test-method is-config="true" signature="takeScreenshot(org.testng.ITestResult)[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-18T15:23:58 IST" name="takeScreenshot" finished-at="2026-03-18T15:23:59 IST" duration-ms="415" status="PASS">
+        <test-method is-config="true" signature="takeScreenshot(org.testng.ITestResult)[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-19T10:17:11 IST" name="takeScreenshot" finished-at="2026-03-19T10:17:11 IST" duration-ms="313" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -56,11 +56,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- takeScreenshot -->
-        <test-method is-config="true" signature="goHome()[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-18T15:24:00 IST" name="goHome" finished-at="2026-03-18T15:24:01 IST" duration-ms="128" status="PASS">
+        <test-method is-config="true" signature="goHome()[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-19T10:17:13 IST" name="goHome" finished-at="2026-03-19T10:17:13 IST" duration-ms="122" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- goHome -->
-        <test-method signature="testProfileStatus_Four(java.lang.String,int,int,java.lang.String,java.lang.String)[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-18T15:24:01 IST" name="testProfileStatus_Four" data-provider="fourUsers" finished-at="2026-03-18T15:24:03 IST" duration-ms="2237" status="PASS">
+        <test-method signature="testProfileStatus_Four(java.lang.String,int,int,java.lang.String,java.lang.String)[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-19T10:17:13 IST" name="testProfileStatus_Four" data-provider="fourUsers" finished-at="2026-03-19T10:17:15 IST" duration-ms="1672" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -91,7 +91,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testProfileStatus_Four -->
-        <test-method is-config="true" signature="takeScreenshot(org.testng.ITestResult)[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-18T15:24:03 IST" name="takeScreenshot" finished-at="2026-03-18T15:24:04 IST" duration-ms="1084" status="PASS">
+        <test-method is-config="true" signature="takeScreenshot(org.testng.ITestResult)[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-19T10:17:15 IST" name="takeScreenshot" finished-at="2026-03-19T10:17:16 IST" duration-ms="912" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -102,11 +102,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- takeScreenshot -->
-        <test-method is-config="true" signature="goHome()[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-18T15:24:04 IST" name="goHome" finished-at="2026-03-18T15:24:04 IST" duration-ms="140" status="PASS">
+        <test-method is-config="true" signature="goHome()[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-19T10:17:16 IST" name="goHome" finished-at="2026-03-19T10:17:16 IST" duration-ms="120" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- goHome -->
-        <test-method signature="testProfileStatus_Four(java.lang.String,int,int,java.lang.String,java.lang.String)[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-18T15:24:04 IST" name="testProfileStatus_Four" data-provider="fourUsers" finished-at="2026-03-18T15:24:05 IST" duration-ms="1103" status="PASS">
+        <test-method signature="testProfileStatus_Four(java.lang.String,int,int,java.lang.String,java.lang.String)[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-19T10:17:16 IST" name="testProfileStatus_Four" data-provider="fourUsers" finished-at="2026-03-19T10:17:17 IST" duration-ms="797" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -137,7 +137,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testProfileStatus_Four -->
-        <test-method is-config="true" signature="takeScreenshot(org.testng.ITestResult)[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-18T15:24:05 IST" name="takeScreenshot" finished-at="2026-03-18T15:24:06 IST" duration-ms="729" status="PASS">
+        <test-method is-config="true" signature="takeScreenshot(org.testng.ITestResult)[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-19T10:17:17 IST" name="takeScreenshot" finished-at="2026-03-19T10:17:17 IST" duration-ms="443" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -148,11 +148,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- takeScreenshot -->
-        <test-method is-config="true" signature="goHome()[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-18T15:24:06 IST" name="goHome" finished-at="2026-03-18T15:24:06 IST" duration-ms="130" status="PASS">
+        <test-method is-config="true" signature="goHome()[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-19T10:17:17 IST" name="goHome" finished-at="2026-03-19T10:17:18 IST" duration-ms="119" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- goHome -->
-        <test-method signature="testProfileStatus_Four(java.lang.String,int,int,java.lang.String,java.lang.String)[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-18T15:24:06 IST" name="testProfileStatus_Four" data-provider="fourUsers" finished-at="2026-03-18T15:24:08 IST" duration-ms="1993" status="PASS">
+        <test-method signature="testProfileStatus_Four(java.lang.String,int,int,java.lang.String,java.lang.String)[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-19T10:17:18 IST" name="testProfileStatus_Four" data-provider="fourUsers" finished-at="2026-03-19T10:17:18 IST" duration-ms="772" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -183,7 +183,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testProfileStatus_Four -->
-        <test-method is-config="true" signature="takeScreenshot(org.testng.ITestResult)[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-18T15:24:08 IST" name="takeScreenshot" finished-at="2026-03-18T15:24:09 IST" duration-ms="581" status="PASS">
+        <test-method is-config="true" signature="takeScreenshot(org.testng.ITestResult)[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-19T10:17:18 IST" name="takeScreenshot" finished-at="2026-03-19T10:17:19 IST" duration-ms="437" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -194,11 +194,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- takeScreenshot -->
-        <test-method is-config="true" signature="goHome()[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-18T15:24:09 IST" name="goHome" finished-at="2026-03-18T15:24:09 IST" duration-ms="127" status="PASS">
+        <test-method is-config="true" signature="goHome()[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-19T10:17:19 IST" name="goHome" finished-at="2026-03-19T10:17:19 IST" duration-ms="109" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- goHome -->
-        <test-method signature="testProfileStatus_Four(java.lang.String,int,int,java.lang.String,java.lang.String)[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-18T15:24:09 IST" name="testProfileStatus_Four" data-provider="fourUsers" finished-at="2026-03-18T15:24:10 IST" duration-ms="1489" status="PASS">
+        <test-method signature="testProfileStatus_Four(java.lang.String,int,int,java.lang.String,java.lang.String)[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-19T10:17:19 IST" name="testProfileStatus_Four" data-provider="fourUsers" finished-at="2026-03-19T10:17:20 IST" duration-ms="1155" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -229,7 +229,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testProfileStatus_Four -->
-        <test-method is-config="true" signature="takeScreenshot(org.testng.ITestResult)[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-18T15:24:10 IST" name="takeScreenshot" finished-at="2026-03-18T15:24:11 IST" duration-ms="552" status="PASS">
+        <test-method is-config="true" signature="takeScreenshot(org.testng.ITestResult)[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-19T10:17:20 IST" name="takeScreenshot" finished-at="2026-03-19T10:17:21 IST" duration-ms="593" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -240,15 +240,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- takeScreenshot -->
-        <test-method is-config="true" signature="goHome()[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-18T15:24:11 IST" name="goHome" finished-at="2026-03-18T15:24:11 IST" duration-ms="141" status="PASS">
+        <test-method is-config="true" signature="goHome()[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-19T10:17:21 IST" name="goHome" finished-at="2026-03-19T10:17:21 IST" duration-ms="139" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- goHome -->
-        <test-method signature="testZeroApps()[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-18T15:24:11 IST" name="testZeroApps" finished-at="2026-03-18T15:24:12 IST" duration-ms="1013" status="PASS">
+        <test-method signature="testZeroApps()[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-19T10:17:21 IST" name="testZeroApps" finished-at="2026-03-19T10:17:22 IST" duration-ms="923" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testZeroApps -->
-        <test-method is-config="true" signature="takeScreenshot(org.testng.ITestResult)[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-18T15:24:12 IST" name="takeScreenshot" finished-at="2026-03-18T15:24:12 IST" duration-ms="525" status="PASS">
+        <test-method is-config="true" signature="takeScreenshot(org.testng.ITestResult)[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-19T10:17:22 IST" name="takeScreenshot" finished-at="2026-03-19T10:17:22 IST" duration-ms="571" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -259,15 +259,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- takeScreenshot -->
-        <test-method is-config="true" signature="goHome()[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-18T15:24:12 IST" name="goHome" finished-at="2026-03-18T15:24:13 IST" duration-ms="137" status="PASS">
+        <test-method is-config="true" signature="goHome()[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-19T10:17:22 IST" name="goHome" finished-at="2026-03-19T10:17:22 IST" duration-ms="132" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- goHome -->
-        <test-method signature="testZeroWebsites()[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-18T15:24:13 IST" name="testZeroWebsites" finished-at="2026-03-18T15:24:14 IST" duration-ms="980" status="PASS">
+        <test-method signature="testZeroWebsites()[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-19T10:17:22 IST" name="testZeroWebsites" finished-at="2026-03-19T10:17:25 IST" duration-ms="2227" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testZeroWebsites -->
-        <test-method is-config="true" signature="takeScreenshot(org.testng.ITestResult)[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-18T15:24:14 IST" name="takeScreenshot" finished-at="2026-03-18T15:24:14 IST" duration-ms="538" status="PASS">
+        <test-method is-config="true" signature="takeScreenshot(org.testng.ITestResult)[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-19T10:17:25 IST" name="takeScreenshot" finished-at="2026-03-19T10:17:25 IST" duration-ms="671" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -278,7 +278,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- takeScreenshot -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-18T15:24:14 IST" name="tearDown" finished-at="2026-03-18T15:24:17 IST" duration-ms="2864" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.profile.tests.ProfileTest@4c12331b]" started-at="2026-03-19T10:17:25 IST" name="tearDown" finished-at="2026-03-19T10:17:28 IST" duration-ms="2584" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
